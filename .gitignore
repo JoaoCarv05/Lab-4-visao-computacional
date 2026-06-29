@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.npz
+camera_pessoal/
+.idea/
+.vscode/
